@@ -7,6 +7,7 @@ Payload:
 
 
 DELAY 1000
+<br>
 CONTROL ESCAPE
 DELAY 1000
 STRING windows defender settings
